@@ -11,6 +11,9 @@ Spaceball is a game where a baseball team's ship is cruising through space looki
 Some of the enemies are weaker than others. You will notice that it will only take one baseball to destroy the baseball bats, but the gloves are much stronger. Made with titanium it takes three baseballs to destroy them. Upon destroying a bat you will recieve 10 points, but for the stronger gloves you will recieve 20. Once you have destroyed all of the equipment your team can go to the game they are about to be late for!
 
 ## Gameplay
-![alt text](https://github.com/jhat3/Spaceball/blob/master/screenshots/pic3.PNG)
+![alt text](https://raw.githubusercontent.com/jhat3/Spaceball/master/screenshots/pic3.PNG)
 
-![alt text](https://github.com/jhat3/Spaceball/blob/master/screenshots/pic2.PNG)
+![alt text](https://raw.githubusercontent.com/jhat3/Spaceball/master/screenshots/pic2.PNG)
+
+## Installation
+To install the game, click download .zip. Open the file until you get to get into space invader, and click edit. Once you edit it click Run. Then click run module and it will play.
