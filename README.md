@@ -1,5 +1,3 @@
-# Spaceball
-
 ## Desrciption
 Spaceball is a game where a lone ship is cruising through space, when it runs into a problem. A belt of baseball gloves and bats is in its way. The only way to destroy the equipment is to shoot baseballs at the targets. Save the ship and destroy the enemies before they blow the ship up and its passengers!
 
