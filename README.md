@@ -1,25 +1,15 @@
-## Welcome to GitHub Pages
+# Spaceball
 
-You can use the [editor on GitHub](https://github.com/jhat3/Spaceball/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## Desrciption
+Spaceball is a game where a lone ship is cruising through space, when it runs into a problem. A belt of baseball gloves and bats is in its way. The only way to destroy the equipment is to shoot baseballs at the targets. Save the ship and destroy the enemies before they blow the ship up and its passengers!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## How to Play
+1. Press 'space' to begin.
+2. Use the left and right arrow key to move.
+3. Use space to shoot.
+4. Dodge the bombs being dropped on you.
+5. Destroy all enemy ships to win!
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
 
 **Bold** and _Italic_ and `Code` text
 
